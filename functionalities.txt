@@ -1,0 +1,16 @@
+lumiere
+ne pas deranger
+musique
+son
+calendrier
+alarme
+meteo
+maps
+trad
+recette
+question enchainees
+conversions
+aleatoire
+
+mode ecoute continue (avec demande de sortie du mode programmé)
+regler temps pause avant fin ecoute
