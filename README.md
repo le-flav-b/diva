@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <img src="https://raw.githubusercontent.com/le-flav-b/diva/master/Logo DIVA.png" alt="Diva" width="150">
+    <img src="https://raw.githubusercontent.com/le-flav-b/diva/master/Logo%20DIVA.png" alt="Diva" width="150">
     <br><br>
 
     🎙️ Diva 🎙️
