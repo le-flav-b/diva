@@ -1,0 +1,24 @@
+3 modes : direct, spontané et en attente
+3 modes de réponses : sans, minimale, détaillée 
+
+Objectif de la semaine / mois / année / date en particulier
+Jouer aux echecs 
+
+Détection Bluetooth de mon portable pour pouvoir arrêter son activité si il n'est plus disponible et que je ne réponds pas 
+
+ChatGPT 
+
+1 bouton central qu'on peut tourner pour le son, ou appuyer physique ou tactile (donc 6 modes d'appuis avec les doubles et prolongés => changer de mode, ON/OFF, appairage bluetouth, +3) (peut-être plus si on peut slider) 
+
+Batterie 
+
+Pas de ports (induction comme le truc de Bon Papa et Amah) 
+
+Pouvoir uploader / changer le code par wifi ou en lui disant de pull son code github 
+
+Sonner mon téléphone 
+Notifs du téléphone 
+Option comme la montre
+
+
+Actions/ thèmes contrôlables vocales radio commande et NFC
